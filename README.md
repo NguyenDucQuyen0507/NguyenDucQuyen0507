@@ -1,4 +1,22 @@
-## Hi, I'm Quyen 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Nguyen Duc Quyen - Full-stack Developer" />
+</p>
+
+<h2 align="center">
+  Hi there, I'm Quyen
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving hand" width="32" />
+</h2>
+
+<p align="center">
+  <a href="https://github.com/NguyenDucQuyen0507">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Full-stack+developer+from+Da+Nang%2C+Vietnam;I+build+admin+dashboards+%2B+REST+APIs;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Open+to+freelance+work+on+Upwork" alt="Typing intro" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01c93835d1b1a38184"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <img src="https://komarev.com/ghpvc/?username=NguyenDucQuyen0507&style=for-the-badge&color=2563eb&label=Profile+views" alt="Profile views" />
+</p>
 
 Full-stack developer from Da Nang, Vietnam. I build **admin dashboards and the REST APIs behind them**.
 
@@ -22,3 +40,5 @@ Full-stack developer from Da Nang, Vietnam. I build **admin dashboards and the R
 ### 🧰 Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,java,spring,postgres,mongodb,docker,git,figma)
+
+<img src="./assets/footer.svg" width="100%" alt="" />
